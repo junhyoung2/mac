@@ -1,0 +1,80 @@
+/* body 스타일 설정 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* header 스타일 */
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* title 클래스 스타일 */
+.title {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* container 스타일 */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+/* box 클래스 스타일 */
+.box {
+    background-color: #ffcc00;
+    margin: 20px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+    
+}
+
+/* box1 클래스 스타일 */
+.box1 {
+    background-color: #ff5733;
+    width: 300px;
+    height: 300px;
+
+}
+
+/* box2 클래스 스타일 */
+.box2 {
+    background-color: #33b5ff;
+}
+
+/* box3 클래스 스타일 */
+.box3 {
+    background-color: #9d297e;
+}
+/* box4 클래스 스타일 */
+.box4 {
+    background-color: #d3ea25;
+}
+/* box3 클래스 스타일 */
+.box4 {
+    background-color: #2dd791;
+}
+
+/* footer 스타일 */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
